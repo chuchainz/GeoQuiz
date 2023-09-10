@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Pokémon Trivia</string>
+<!--    <string name="question_text">What color is Pikachu?</string>-->
+    <string name="question_pikachu">Is Pikachu yellow?</string>
+
+    <string name="question_ash">"Ash's age is 11."</string>
+    <string name="question_rayquaza">Rayquaza can mega evolve.</string>
+    <string name="question_gengar">Gengar is from generation 2.</string>
+    <string name="question_mew">Mew is the 150th pokémon.</string>
+    <string name="question_jesse">Jesse has blue hair.</string>
+
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="next_button">Next</string>
+    <string name="correct_toast">Correct!</string>
+    <string name="incorrect_toast">Incorrect!</string>
+
+    <string name="warning_text">Are you sure you want to do this?</string>
+    <string name="show_answer_button">Show Answer</string>
+    <string name="cheat_button">Cheat!</string>
+    <string name="judgment_toast">Cheating is wrong.</string>
+</resources>
